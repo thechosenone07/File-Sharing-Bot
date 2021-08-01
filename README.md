@@ -24,11 +24,11 @@
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
+I Guess This Will Be Usefull For Many People.....😇 [ MAN 👽 ](https://t.me/J_A_R_V_l_S)
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**OUR CHANNEL 🌟 [BOT'NMOVIE]()**
 
 ### Features
 - Fully customisable.
